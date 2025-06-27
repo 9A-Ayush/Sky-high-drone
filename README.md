@@ -9,35 +9,35 @@
 ### 🏠 Home Page
 > A clean and professional landing page with featured banners and navigation.
 
-![Home Page](screenshots/home.png)
+![Home Page](https://github.com/9A-Ayush/Sky-high-drone/blob/main/ss/home.png)
 
 ---
 
 ### 📦 Products Page
 > Displays a collection of available drones with images, titles, and prices.
 
-![Products Page](screenshots/products.png)
+![Products Page](https://github.com/9A-Ayush/Sky-high-drone/blob/main/ss/product.png)
 
 ---
 
 ### ℹ️ About Us Page
 > Gives insight into the brand and mission of SKY HIGH DRONES.
 
-![About Page](screenshots/about.png)
+![About Page](https://github.com/9A-Ayush/Sky-high-drone/blob/main/ss/about.png)
 
 ---
 
 ### 📞 Contact Page
 > Contact form and details for customer support or business queries.
 
-![Contact Page](screenshots/contact.png)
+![Contact Page](https://github.com/9A-Ayush/Sky-high-drone/blob/main/ss/contact.png)
 
 ---
 
 ### 🛒 Cart Page
 > Allows users to view, update, or remove selected products before checkout.
 
-![Cart Page](screenshots/cart.png)
+![Cart Page](https://github.com/9A-Ayush/Sky-high-drone/blob/main/ss/cart.png)
 
 ---
 
